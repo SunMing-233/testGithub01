@@ -12,8 +12,8 @@ public class Address {
     private Date creationDate;
     private int modifyBy;
     private Date modifyDate;
-    private int userId;
-
+    private int aaaaaa;
+    pirvate String bbbbb;
 
     @Override
     public String toString() {
